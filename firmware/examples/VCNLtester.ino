@@ -4,7 +4,7 @@
 //         SCL to i2c clock (D1), SDA to i2c data (D0)
 // You can pick one up at the Adafruit shop: www.adafruit.com/products/466
 
-#include "vcnl4000.h"
+#include "vcnl4000/vcnl4000.h"
 
 VCNL4000 vcnl;
 
